@@ -1,0 +1,82 @@
+[
+    {
+        "seedPhrase": "medal pear key square absorb submit destroy peace decorate prison twenty office",
+        "accountType": "software",
+        "walletAccounts": [
+            {
+                "id": 0,
+                "masterPubKey": "03273a48d884d7f6017204c44402da2b4aa1e95bd7f462f0269abc2eb02c291f0d",
+                "btcAddress": "3GL7RrAfZYALcKWQ5RHjwQaN7CT5s4dV9x",
+                "btcPublicKey": "02bedd5a08f1cec57415ccd29bc370cd3c59fb58463d634293927d0fbc3c3ed100",
+                "ordinalsAddress": "bc1pz62kmfajruwy8eyyk66nrxljx9zump3c7pluy9665q0vpckl336srnyj0r",
+                "ordinalsPublicKey": "5c3ec08324b050659e4ce4570ef0cba2781ed66a045586e033c63fff0098a38b",
+                "stxAddress": "SP22DM5Z41DBZ6CX7YXV09DNAK9RTA9N6SAQDCJ2C",
+                "stxPublicKey": "03afb54871ac2b4be116a0738484a412b733341216a0c38a9c4c4fce65a5334bbb"
+            }
+        ]
+    },
+    {
+        "seedPhrase": "fabric once miss danger input garment october canyon around like dream sick",
+        "accountType": "software",
+        "walletAccounts": [
+            {
+                "id": 0,
+                "masterPubKey": "03f93a7b26511784391f00c669058b4030de9b6151fa6d5616e42ca9fd33815dc5",
+                "btcAddress": "37YByYSqPohHXJRtvAichhvC3e8WxC2r3B",
+                "btcPublicKey": "032e572f504043b35e693d18edd1db7a86a87496413ee1546bae78faf5057b0051",
+                "ordinalsAddress": "bc1pgunulxg5jg8hvejlfupgxs5f965t8nhrcs7p2w4wwmv7seczfa8s966hty",
+                "ordinalsPublicKey": "616e35e7ad6abfd060a461a2ec96fd5956675411890c1f485f884e1580b02130",
+                "stxAddress": "SPH9FJ1XS2CPRW89VS1D54Y66RS6EWAHPNZ175Z3",
+                "stxPublicKey": "0325b5a6f041f7f5824ac9d228017e5fd6577ebeec69a3c318d21e06cfcddb0443"
+            }
+        ]
+    },
+    {
+        "seedPhrase": "else large tomorrow side modify federal reduce puppy limb photo castle volume",
+        "accountType": "software",
+        "walletAccounts": [
+            {
+                "id": 0,
+                "masterPubKey": "0244275481281357eedbc7462660bab0ed1483f7ac2756e2c98e76d4dd6e76c2f6",
+                "btcAddress": "371xnj1wjgoQwMU3UN6VLsTfG3cLQtmvMj",
+                "btcPublicKey": "0278e8ee2d484c3a12c4e34a398a9eb3b474c1478f8e03d2dfe3526251e37c1434",
+                "ordinalsAddress": "bc1pzecrzc5rlyjlt4y2805wf0z56kn5yy8y0cdctfq8cfxkaghjcspq9f5w3t",
+                "ordinalsPublicKey": "d8cb48bd6cfdb1d339dff0fb584be8da963e0b313549b4bfa19aa5aaeb47fc43",
+                "stxAddress": "SP3YPFB9QK2R34M5HMM1QK1H0YMX7E5ZQG8CSTT6P",
+                "stxPublicKey": "03e4b8493257efb551cb2b93660628731fb549e95d6356344b5aa82b505d492507"
+            }
+        ]
+    },
+    {
+        "seedPhrase": "jump boil clutch exit alter cruise affair vehicle between camp similar fold",
+        "accountType": "software",
+        "walletAccounts": [
+            {
+                "id": 0,
+                "masterPubKey": "0274cbf522bf14d50035e1c0fa1b893a0c2622f9fcb01c6e427f10cb931ade1e53",
+                "btcAddress": "39TJUz7Q78iNuh7fcZ9HMRRDb4AcM84z6V",
+                "btcPublicKey": "0254c0bed4e5530e8ba7bd45c20bad1713b09221b96ec57c12c69499d511cc7f38",
+                "ordinalsAddress": "bc1pf659cc27lgwtyv09cch905fdwqy62ku22uawyhgddma3834s03ss2zl0pd",
+                "ordinalsPublicKey": "04c2cbe0846feff1b97e828c65b009be1bd4bb113a254a094a50b2f5fe3d7de1",
+                "stxAddress": "SP1ANW66YN1D716J090KZVYQKZFKDC7S1E5ZTBAV0",
+                "stxPublicKey": "023df7c47a86931b2c389850f5d84c17e9b05b33d576f0b3694d15875184edecae"
+            }
+        ]
+    },
+    {
+        "seedPhrase": "lizard wine hip reason video rather advance abstract mango prize critic zone",
+        "accountType": "software",
+        "walletAccounts": [
+            {
+                "id": 0,
+                "masterPubKey": "03d4152ec42583794a591d5acc6570b145d804e5f15d4e95a5f97359bd92b474a2",
+                "btcAddress": "3GfpXmapmZ5JwjovBk4u3ZynHZ4WnfkUpk",
+                "btcPublicKey": "0224487ea32bb9dec7815e4170355aaed9f93eb8eb9e8f50e9f672bf96b19fe2fc",
+                "ordinalsAddress": "bc1puzhdpkv2x4pztp53ztg5yx0kpsmmzcx7f3j6sjx66cswl0py9d7qdv6kfc",
+                "ordinalsPublicKey": "c1963c4c2dd214af8ca68bedbc21765f633c7f586794f8961372190b67d82bae",
+                "stxAddress": "SPGW3N60RPNZ9817GFMCFJBXER3YQSH2BZP6ATB",
+                "stxPublicKey": "024695c7e5795da4a93c2fc978be621fbdee6a11ec6bd5148aa4268ec483b3a646"
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+{
+  "name": "aa-hardhat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-etherscan": "^3.1.8",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "@types/jest": "^29.5.12",
+    "@types/node": "^22.5.4",
+    "chai": "^4.5.0",
+    "ethereum-waffle": "^4.0.10",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.22.15",
+    "prettier": "^3.3.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@bitcoinerlab/secp256k1": "^1.1.1",
+    "@openzeppelin/contracts": "^5.0.2",
+    "@scure/base": "^1.1.8",
+    "@scure/btc-signer": "^1.2.1",
+    "bip32": "^4.0.0",
+    "bip322-js": "^2.0.0",
+    "bip39": "^3.0.3",
+    "bitcoin-address-validation": "^2.2.3",
+    "bitcoinjs-lib": "^6.1.6",
+    "bitcoinjs-message": "^2.2.0",
+    "varuint-bitcoin": "^1.1.2"
+  }
+}
